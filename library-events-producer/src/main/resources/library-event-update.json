@@ -1,0 +1,9 @@
+{
+	"libraryEventId": 123,
+	"libraryEventType": "UPDATE",
+	"book": {
+		"bookId": 123,
+		"bookName": "Head First - Design patterns",
+		"bookAuther": "abc"
+	}
+}

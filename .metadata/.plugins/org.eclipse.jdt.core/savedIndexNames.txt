@@ -1,0 +1,27 @@
+INDEX VERSION 1.134+D:\Nithin\library-inventory-kafka\.metadata\.plugins\org.eclipse.jdt.core
+112423044.index
+1580890886.index
+2972109994.index
+15559237.index
+657655370.index
+2990048706.index
+17736466.index
+736377923.index
+2322762363.index
+647417223.index
+3918564368.index
+1357688494.index
+3439664897.index
+1813105577.index
+2729274433.index
+547291710.index
+3727051145.index
+617428656.index
+1865797976.index
+547276956.index
+6762584.index
+2141900830.index
+1676554332.index
+373394347.index
+2063539588.index
+3349183685.index
